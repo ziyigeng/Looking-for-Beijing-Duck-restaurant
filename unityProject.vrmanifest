@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.lookingforbeijingduckrestaurant.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Jason\\Documents\\GitHub\\Looking-for-Beijing-Duck-restaurant\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Looking for Beijing Duck restaurant [Testing]"
+        }
+      }
+    }
+  ]
+}
